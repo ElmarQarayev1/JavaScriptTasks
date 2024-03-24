@@ -1,0 +1,45 @@
+
+.first{
+    margin-top: 10px;
+    text-align: center;       
+}
+.second{
+    margin-top: -17px;
+   margin-left: 18.23%;
+    background-color: rgb(250, 7, 7);
+    height: 350px;
+    width: 834px;
+}
+.second .about2{
+    color: white;
+    padding:100px  100px;
+}
+ul li{
+ 
+   display: inline-block;
+   width: 200px;
+}
+#home1{
+    background-color: rgb(250, 7, 7);
+}
+ul li a{
+    padding-top: 18px;
+    display: inline-block;
+    width: 220px;
+    height: 60px;
+    background-color: rgb(225, 225, 225);
+   
+    color: black;
+    text-decoration: none;
+}
+ul li a:hover{
+    color: black;
+    text-decoration: none;
+    background-color: rgb(213, 208, 208);
+}
+#hh1{
+    font-size: 60px;
+}
+#pp1{
+    padding-top: 20px;
+}

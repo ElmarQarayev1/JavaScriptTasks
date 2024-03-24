@@ -1,0 +1,93 @@
+
+.container-fluid{
+ height: 530px;
+ background-color: rgb(33, 33, 33);
+}
+.navbar-light .navbar-nav .nav-link {
+ font-size: 14px;
+ color: rgb(140, 138, 138);
+}
+.navbar-light .navbar-nav .nav-link:hover{
+
+color: rgb(255, 255, 255);
+}
+img {
+vertical-align: middle;
+border-style: none;
+width: 524px;
+}
+h1, h1 {
+font-size: 2.8rem;
+}
+p {
+margin-top: 0;
+margin-bottom: 1rem;
+font-size: 19px;
+}
+.card-img-top {
+border-top-left-radius: calc(.25rem - 1px);
+border-top-right-radius: calc(.25rem - 1px);
+width:80px;
+padding-left: 20px;
+}
+.ww h1{
+ font-size: 29px;
+}
+.card {
+position: relative;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-direction: column;
+flex-direction: column;
+min-width: 0;
+word-wrap: break-word;
+background-color: #fff;
+background-clip: border-box;
+border: 1px solid rgb(255, 255, 255);
+border-radius: .25rem;
+
+}
+.xxx img {
+ padding-right: 2px;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+
+}
+.sss img{
+ width: 40px;
+}
+.ccc .qq{
+
+ text-align: center;
+ width: 310px;
+}
+.final{
+ background-color: rgb(34, 34, 34);
+ height: 50px;
+}
+.last{
+ height: 50px;
+ display: flex;
+ justify-content: space-between;
+}
+.about .foot{
+ margin-top: 10px;
+ font-size: 15px;
+ color: #fff;
+}
+
+.ullii li{
+ font-size: 13px;
+ display: inline-block;
+}
+.ullii{
+ margin-top: 10px;
+}
+.ullii li a{
+ text-decoration: underline;
+ color: #fff;
+}
+.ullii li .dot{
+ text-decoration: none;
+}
